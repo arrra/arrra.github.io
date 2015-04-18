@@ -32,6 +32,11 @@ footer, header, hgroup, menu, nav, section {
 
 body {
   line-height: 1;
+  background-image: url('../img/pink-sky.JPG');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size: cover;
+  background-position:center center;
 }
 
 ol, ul {
@@ -52,3 +57,4 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
