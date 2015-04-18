@@ -70,3 +70,12 @@ table {
   padding-right:20px;
   margin-top: 60px;
 }
+
+.header-title {
+  font-size: 25px;
+  margin-right:auto;
+  margin-left:auto;
+  padding-left:20px;
+  padding-right:20px;
+  margin-top: 40px;
+}
